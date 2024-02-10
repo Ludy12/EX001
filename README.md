@@ -1,20 +1,13 @@
-<!DOCTYPE html> 
+<!DOCTYVE HTML> 
 <html lang="pt-br">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport"  content="width=device-width, initial-scale=1.0">
-     <title> Meu primeiro exercicio </title>
+ <head>
+  <meta charset ="UTF-8">
+   <meta name=viewport" content=width=device-width, initial-scale=1.0">
+   <title>Test</title>
   </head>
   <body>
-    <h1>
-      Ola, mundo!
-      <hr>
-    </h1>
-    <p>
-      esse é o meu primeiro documento html! Estou muito feliz! 
-    </p>
-    <p>
-      este é um momento unico! Estou criando um site!
-    </p>
+    <h1> testando imagens  </h1>
+    <p>abaixo voce vai ver uma imagem que está na mesma pasta.</p>
+ <img src "HTML FULL."="" alt="logo html 5">   
   </body>
 </html>
