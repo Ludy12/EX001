@@ -8,6 +8,6 @@
   <body>
     <h1> testando imagens  </h1>
     <p>abaixo voce vai ver uma imagem que está na mesma pasta.</p>
- <img src "HTML FULL."="" alt="logo html 5">   
+ <img src "logo-html-full.png" alt="logo html 5">   
   </body>
 </html>
